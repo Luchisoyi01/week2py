@@ -17,5 +17,5 @@ my_list.pop()
 my_list.sort()
 
 # Find and print the index of the value 30 in my_list
-index_of_30 = my_list.index(30)
-print(f"The index of the value 30 in my_list is: {index_of_30}")
+index_of_15 = my_list.index(15)
+print(f"The index of the value 30 in my_list is: {index_of_15}")
